@@ -305,3 +305,4 @@ pnpm --filter @open-foundry/web test   # Vitest
 
 - **2026-05-16**: Created `knowledge.md` (this file) as the agent knowledge base
 - **2026-05-16**: Created `IDEAS.md` — 8 sections, 30+ detailed use cases covering: work (legionella testing company), home networking, music collection, self-hosting, personal finance, home automation, media library, open data. Priority matrix included.
+- **2026-05-16**: Ingested YouTube video `AbpjUKmG5uU` ("The $30 Billion AI the Pentagon Uses — Now Free For Everyone" by AI Fusion). Full report at `youtube-ingest-AbpjUKmG5uU.md`. Key finding: the video is directly about this repo (DioCrafts/OpenFoundry), uploaded 2026-05-12, 15.6k views, 695 likes. Video incorrectly states the stack is "Rust and Svelte" — a commenter corrects it to Go and React. Video is a major discovery/marketing driver for the project.
